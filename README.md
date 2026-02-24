@@ -18,25 +18,60 @@
 
 ---
 
-## 🚀 About Me
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+</div>
 
-```javascript
-const vladyslav = {
-    location: "Poland 🇵🇱",
-    role: "Senior Full Stack Developer",
-    experience: "4+ years",
-    currentFocus: ["Scalable Architecture", "Cloud Solutions", "Web3"],
-    funFact: "I debug with console.log and I'm not ashamed 😄"
-};
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding"/>
+
+</td>
+<td width="50%">
+
+```typescript
+class Developer {
+  name = "Vladyslav Zelinskyi";
+  location = "Poland 🇵🇱";
+  title = "Senior Full Stack Developer";
+  
+  skills = {
+    languages: ["TypeScript", "JavaScript", "Rust"],
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "NestJS", "GraphQL"],
+    cloud: ["AWS", "Docker", "K8s"]
+  };
+  
+  currentMission() {
+    return "Building scalable solutions 🚀";
+  }
+}
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</td>
+</tr>
+</table>
 
-- 🔭 Currently working on **scalable microservices**
-- 🌱 Learning **Rust & Web3 advanced patterns**
-- 👯 Open to collaborate on **interesting open-source projects**
-- 💬 Ask me about **React, Node.js, AWS, System Design**
-- ⚡ Fun fact: **I love coffee ☕ and clean code**
+<div align="center">
+
+### 🎯 What I'm Up To
+
+<img src="https://img.shields.io/badge/🔭_Working_on-Scalable_Microservices-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌱_Learning-Rust_&_Web3-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👯_Open_to-Open_Source_Collabs-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💬_Ask_about-React_|_Node_|_AWS-FFE66D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_Fun_Fact-Coffee_☕_&_Clean_Code-95E1D3?style=for-the-badge" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%" />
+</div>
 
 ---
 
