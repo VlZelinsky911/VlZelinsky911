@@ -69,10 +69,6 @@ class Developer {
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
