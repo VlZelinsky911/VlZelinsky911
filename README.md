@@ -75,16 +75,6 @@ class Developer {
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VlZelinsky911&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -138,20 +128,7 @@ class Developer {
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/VlZelinsky911/SurveyConflictSystem">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VlZelinsky911&repo=SurveyConflictSystem&theme=tokyonight&hide_border=true" alt="SurveyConflictSystem" />
-  </a>
-  <a href="https://github.com/VlZelinsky911/TodoApp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VlZelinsky911&repo=TodoApp&theme=tokyonight&hide_border=true" alt="TodoApp" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VlZelinsky911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
