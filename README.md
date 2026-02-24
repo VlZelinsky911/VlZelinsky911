@@ -78,7 +78,9 @@ class Developer {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VlZelinsky911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VlZelinsky911&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -140,10 +142,10 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/VlZelinsky911/SurveyConflictSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VlZelinsky911&repo=SurveyConflictSystem&theme=tokyonight&hide_border=true" alt="SurveyConflictSystem" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VlZelinsky911&repo=SurveyConflictSystem&theme=tokyonight&hide_border=true" alt="SurveyConflictSystem" />
   </a>
   <a href="https://github.com/VlZelinsky911/TodoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VlZelinsky911&repo=TodoApp&theme=tokyonight&hide_border=true" alt="TodoApp" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VlZelinsky911&repo=TodoApp&theme=tokyonight&hide_border=true" alt="TodoApp" />
   </a>
 </p>
 
@@ -152,12 +154,12 @@ class Developer {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VlZelinsky911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlZelinsky911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VlZelinsky911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VlZelinsky911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VlZelinsky911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VlZelinsky911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -200,18 +202,8 @@ class Developer {
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
----
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-git-master.vercel.app/api/spotify)](https://open.spotify.com/)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 **Thanks for visiting! Let's build something amazing together 🚀**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
