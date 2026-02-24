@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
@@ -69,7 +69,7 @@ class Developer {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -122,7 +122,7 @@ class Developer {
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 ##  GitHub Stats
 
@@ -140,7 +140,7 @@ class Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VlZelinsky911&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 ## 🗺️ Roadmap 2026
 
@@ -151,7 +151,7 @@ class Developer {
 - [ ] Learn Rust for high-performance systems
 - [ ] Launch personal tech YouTube channel
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 ## 🌐 Portfolio & Links
 
@@ -167,7 +167,7 @@ class Developer {
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <div align="center">
   
